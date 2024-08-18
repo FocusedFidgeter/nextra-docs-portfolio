@@ -7,7 +7,7 @@ const config: DocsThemeConfig = {
     link: 'https://github.com/FocusedFidgeter/nextra-docs-portfolio',
   },
   chat: {
-    link: 'https://discord.com',
+    link: 'https://discord.com/invite/377dJsmk',
   },
   docsRepositoryBase: 'https://github.com/FocusedFidgeter/nextra-docs-portfolio/blob/main',
   footer: {
