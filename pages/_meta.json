@@ -1,7 +1,18 @@
 {
   "index": "Introduction",
-  "another": "Another Page",
-  "advanced": "Advanced (A Folder)",
+  "-- jobs": {
+    "type": "separator",
+    "title": "Jobs"
+  },
+  "roundtop": "Flying Leaps | '10 - 17",
+  "amazon": "Amazon | '14 - 21",
+  "freelance": "Freelance | '20 - __",
+  "salesforce": "Salesforce Dev | '21 - 22",
+  "flagger-force": "Flagger Force | '22 - __",
+  "-- line": {
+    "type": "separator"
+  },
+  "faq": "FAQs",
   "about": {
     "title": "About",
     "type": "page"
@@ -9,7 +20,7 @@
   "contact": {
     "title": "Contact ↗",
     "type": "page",
-    "href": "https://twitter.com/shuding_",
+    "href": "https://linkedin.com/in/paul-devey",
     "newWindow": true
   }
 }
