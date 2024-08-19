@@ -1,5 +1,9 @@
 {
-    "Overview": "Overview",
+    "*": {
+      "theme": {
+        "breadcrumb": true
+      }
+    },
     "billing": "Billing Analyst",
     "developing": "Automation Developer"
 }

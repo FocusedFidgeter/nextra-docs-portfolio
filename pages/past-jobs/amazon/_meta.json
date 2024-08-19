@@ -1,8 +1,12 @@
 {
-  "overview": "Overview",
+  "*": {
+    "theme": {
+      "breadcrumb": true
+    }
+  },
   "ship-clerk": "Ship Dock Supervisor",
   "jockey-trainee": "Yard Jockey Trainee",
-  "shift-assistant": "Shift Assistant",
+  "shift-assistant": "Shift Supervisor",
   "shift-manager": "Shift Manager",
   "area-manager": "Area Manager"
 }

@@ -1,10 +1,39 @@
-# Introduction
+# Paul Devey's Dev Portfolio
+
+import { Cards, Card, Tabs } from 'nextra/components'
+
+## Introduction
  
-Welcome to Paul Devey's online resume! It uses the [Nextra](https://nextra.site) docs site as a template. 
+Welcome to Paul Devey's online resume! It uses [Nextra](https://nextra.site) and [Vercel](https://vercel.com). 
 
-## About
+### Purpose
 
-Paul is a... jackass
+- It is a digital business card to hand around
+    - First, I have terrible habits round opening up to people, I forget to tell them any interesting facts about me
+        - My two siblings and I were all born in different states
+        - I lived in Japan for three years and I have climbed Mt Fuji
+    - Second, when I am seeking a job!
+
+### Highlights
+
+<Tabs items={['Work', 'Hobbies', 'Experiences']}>
+  <Tabs.Tab>
+    **1. Specialized in:** `VBA`, `Python`, `Next.js` (*ok, so I'm not **specialized** in this yet*)
+    
+    - `MySQL`, `Crystal Reports`, `Notion`, `Shopify`, etc.
+    
+    **2. Highest Position**, though I admit I work better with a smaller staff. *who doesn't?*
+    
+    **3. Combination** of development and management
+    <Cards>
+      <Card title="1. Freelance Developer" href="/current-jobs/freelance" />
+      <Card title="2. Warehouse Manager - 50+ Directs" href="/past-jobs/amazon/area-manager" />
+      <Card title="3. Automation Developer" href="/current-jobs/flagger-force/developing" />
+    </Cards>
+  </Tabs.Tab>
+  <Tabs.Tab></Tabs.Tab>
+  <Tabs.Tab></Tabs.Tab>
+</Tabs>
 
 ---
 

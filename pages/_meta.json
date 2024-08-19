@@ -1,26 +1,37 @@
 {
-  "index": "Introduction",
-  "-- jobs": {
-    "type": "separator",
-    "title": "Jobs"
+  "*": {
+    "theme": {
+      "breadcrumb": false
+    }
   },
-  "roundtop": "Flying Leaps | '10 - 17",
-  "amazon": "Amazon | '14 - 21",
-  "freelance": "Freelance | '20 - __",
-  "salesforce": "Salesforce Dev | '21 - 22",
-  "flagger-force": "Flagger Force | '22 - __",
-  "-- line": {
+  "index": "Home",
+  "-- work": {
+    "type": "separator",
+    "title": "Work Experience"
+  },
+  "past-jobs": "Past Jobs",
+  "current-jobs": "Current Jobs",
+  "-- end_jobs": {
     "type": "separator"
   },
   "faq": "FAQs",
+  "email_link": {
+    "title": "Email me ↗",
+    "href": "mailto:pddevey@gmail.com"
+  },
   "about": {
     "title": "About",
     "type": "page"
   },
-  "contact": {
-    "title": "Contact ↗",
+  "linkedin": {
+    "title": "Linkedin ↗",
     "type": "page",
     "href": "https://linkedin.com/in/paul-devey",
     "newWindow": true
+  },
+  "email_page": {
+    "title": "Email me ↗",
+    "type": "page",
+    "href": "mailto:pddevey@gmail.com"
   }
 }

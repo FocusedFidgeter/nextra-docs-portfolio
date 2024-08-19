@@ -1,0 +1,10 @@
+{
+  "*": {
+    "theme": {
+      "breadcrumb": true
+    }
+  },
+  "facilitator": "Ropes Course Facilitator",
+  "counselor": "Day-Camp Counselor",
+  "supervisor": "Supervising Facilitator"
+}

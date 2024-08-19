@@ -1,0 +1,13 @@
+{
+    "*": {
+      "theme": {
+        "breadcrumb": true
+      }
+    },
+    "freelance": {
+      "title": "Freelance Developer"
+    },
+    "flagger-force": {
+      "title": "Flagger Force"
+    }
+}
